@@ -18,7 +18,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| Certified in  
+| Certified in          |                                        |                |
 | Cybersecurity(ISC2)   |                10/2023                 |     xxx        | 
-|
+|                       |                                        |                |
 | Google Cybersecurity  |                07/2024                 |                |
